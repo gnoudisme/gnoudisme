@@ -13,9 +13,6 @@ Tập trung vào **an ninh mạng** và **hệ thống phân tán**:
 | Project | Mô tả | Stack |
 |---------|-------|-------|
 | **GhostCircuit** | Hệ thống honeypot phân tán, bẫy và phân tích hacker realtime | Rust + Go + Python + NodeJS + React |
-| **Threat Hunt** | Workbench săn lùng malware (parser PE/ELF/APK, YARA) | Rust + Go + Python + TypeScript |
-| **WebDefend** | WAF ứng dụng web với AI phát hiện tấn công layer 7 | Go + Python + Next.js |
-| **Security Log Fabric** | SIEM thu thập và phân tích log bảo mật | Rust + Go + Python |
 
 ## 🌱 Đang học
 
