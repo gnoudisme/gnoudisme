@@ -32,6 +32,7 @@ Tập trung vào **an ninh mạng** và **hệ thống phân tán** — thích t
 - Reddit: [u/gnoudisme](https://reddit.com/u/gnoudisme)
 - Twitch: [gnoudisme](https://twitch.tv/gnoudisme)
 - TikTok: [@gnoudisme_](https://tiktok.com/@gnoudisme_)
+- Email: [gnoudisme@gmail.com](mailto:gnoudisme@gmail.com)
 
 ---
 
