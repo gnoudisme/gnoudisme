@@ -1,18 +1,17 @@
 # Chào cậu, tớ là Dươngg! 👋
 
+> ### *"I'm not a developer — I just build world-class things."*
+> *Tôi không phải lập trình viên — tớ chỉ xây những thứ tầm thế giới.* 🌍
+
 > Thích vọc công nghệ, AI, tự làm web — đến từ Phú Thọ 🇻🇳
 
 ## 🧑‍💻 Về tớ
 
 Tớ là một người đam mê công nghệ, thích tự mày mò và xây dựng những thứ "tầm the world" 🌍. Tớ nghĩ ý tưởng, rồi biến chúng thành sản phẩm thật — không tutorial, không đồ chơi!
 
-## 🛡️ Đang làm gì
+## 🛡️ Hướng đi
 
-Tập trung vào **an ninh mạng** và **hệ thống phân tán**:
-
-| Project | Mô tả | Stack |
-|---------|-------|-------|
-| **GhostCircuit** | Hệ thống honeypot phân tán, bẫy và phân tích hacker realtime | Rust + Go + Python + NodeJS + React |
+Tập trung vào **an ninh mạng** và **hệ thống phân tán** — thích tự mày mò, xây dựng những thứ "tầm the world" 🌍
 
 ## 🌱 Đang học
 
