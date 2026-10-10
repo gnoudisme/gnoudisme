@@ -1,7 +1,6 @@
 # Chào cậu, tớ là Dươngg! 👋
 
-> ### *"I'm not a developer — I just build world-class things."*
-> *Tôi không phải lập trình viên — tớ chỉ xây những thứ tầm thế giới.* 🌍
+> ### *"Tớ không phải lập trình viên — tớ chỉ xây những thứ tầm thế giới."* 🌍
 
 > Thích vọc công nghệ, AI, tự làm web — đến từ Phú Thọ 🇻🇳
 
