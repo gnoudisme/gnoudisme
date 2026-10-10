@@ -1,1 +1,36 @@
-IyBDaMOgbyBj4bqtdSwgdOG7myBsw6AgRMawxqFuZ2chIPCfkYsKCj4gIyMjICoiSSdtIG5vdCBhIGRldmVsb3BlciDigJQgSSBqdXN0IGJ1aWxkIHdvcmxkLWNsYXNzIHRoaW5ncy4iKgo+ICpUw7RpIGtow7RuZyBwaOG6o2kgbOG6rXAgdHLDrG5oIHZpw6puIOKAlCB04bubIGNo4buJIHjDonkgbmjhu69uZyB0aOG7qSB04bqnbSB0aOG6vyBnaeG7m2kuKiDwn4yNCgo+IFRow61jaCB24buNYyBjw7RuZyBuZ2jhu4csIEFJLCB04buxIGzDoG0gd2ViIOKAlCDEkeG6v24gdOG7qyBQaMO6IFRo4buNIPCfh7vwn4ezCgojIyDwn6eR4oCN8J+SuyBW4buBIHThu5sKClThu5sgbMOgIG3hu5l0IG5nxrDhu51pIMSRYW0gbcOqIGPDtG5nIG5naOG7hywgdGjDrWNoIHThu7EgbcOgeSBtw7IgdsOgIHjDonkgZOG7sW5nIG5o4buvbmcgdGjhu6kgInThuqdtIHRoZSB3b3JsZCIg8J+MjS4gVOG7myBuZ2jEqSDDvSB0xrDhu59uZywgcuG7k2kgYmnhur9uIGNow7puZyB0aMOgbmggc+G6o24gcGjhuqltIHRo4bqtdCDigJQga2jDtG5nIHR1dG9yaWFsLCBraMO0bmcgxJHhu5MgY2jGoWkhCgojIyDwn5uh77iPIEjGsOG7m25nIMSRaQoKVOG6rXAgdHJ1bmcgdsOgbyAqKmFuIG5pbmggbeG6oW5nKiogdsOgICoqaOG7hyB0aOG7kW5nIHBow6JuIHTDoW4qKiDigJQgdGjDrWNoIHThu7EgbcOgeSBtw7IsIHjDonkgZOG7sW5nIG5o4buvbmcgdGjhu6kgInThuqdtIHRoZSB3b3JsZCIg8J+MjQoKIyMg8J+MsSDEkGFuZyB0w7IgbcOyIHbDoCBtdeG7kW4gdMOsbSBoaeG7g3UKCi0gQW4gbmluaCBt4bqhbmcgJiBhbiB0b8OgbiB0aMO0bmcgdGluCi0gS+G7uSB0aHXhuq10IG3huqFuZyAoRE5TLCBJUCwgVlBOLi4uKQotIERhdGFiYXNlOiBTdXBhYmFzZSDihpIgTmVvbiDihpIgVHVyc28g4oaSIE1vbmdvREIKCiMjIPCfm6DvuI8gVGVjaCB04bubIGhheSBkw7luZwoKKipCYWNrZW5kOioqIFB5dGhvbiDCtyBHbyDCtyBOb2RlSlMKKipGcm9udGVuZDoqKiBSZWFjdCDCtyBUeXBlU2NyaXB0IMK3IFRhaWx3aW5kQ1NTCioqS2jDoWM6KiogRG9ja2VyIMK3IFRhaWxzY2FsZSDCtyBuOG4gwrcgR2l0SHViIEFjdGlvbnMKCiMjIPCfk6sgS+G6v3QgbuG7kWkgduG7m2kgdOG7mwoKLSBHaXRIdWI6IFtAZ25vdWRpc21lXShodHRwczovL2dpdGh1Yi5jb20vZ25vdWRpc21lKQotIFg6IFtAZ25vdWRibmZdKGh0dHBzOi8veC5jb20vZ25vdWRibmYpCi0gRmFjZWJvb2s6IFtnbm91ZGJuZl0oaHR0cHM6Ly9mYWNlYm9vay5jb20vZ25vdWRibmYpCgotLS0KCirwn5KhIEZ1biBmYWN0OiB04bubIHThu6tuZyAibuG7lSIgbMOgIG7huqFwIDEwIHRyaeG7h3UgdsOgbyBPcGVuUm91dGVyIG5oxrBuZyB0aOG6rXQgcmEgY2jGsGEgY8OzIHRp4buBbiDwn5iCKgo=
+# Chào cậu, tớ là Dươngg! 👋
+
+> ### *"I'm not a developer — I just build world-class things."*
+> *Tôi không phải lập trình viên — tớ chỉ xây những thứ tầm thế giới.* 🌍
+
+> Thích vọc công nghệ, AI, tự làm web — đến từ Phú Thọ 🇻🇳
+
+## 🧑‍💻 Về tớ
+
+Tớ là một người đam mê công nghệ, thích tự mày mò và xây dựng những thứ "tầm the world" 🌍. Tớ nghĩ ý tưởng, rồi biến chúng thành sản phẩm thật — không tutorial, không đồ chơi!
+
+## 🛡️ Hướng đi
+
+Tập trung vào **an ninh mạng** và **hệ thống phân tán** — thích tự mày mò, xây dựng những thứ "tầm the world" 🌍
+
+## 🌱 Đang tò mò và muốn tìm hiểu
+
+- An ninh mạng & an toàn thông tin
+- Kỹ thuật mạng (DNS, IP, VPN...)
+- Database: Supabase → Neon → Turso → MongoDB
+
+## 🛠️ Tech tớ muốn học
+
+**Backend:** Python · Go · NodeJS
+**Frontend:** React · TypeScript · TailwindCSS
+**Khác:** Docker · Tailscale · n8n · GitHub Actions
+
+## 📫 Kết nối với tớ
+
+- GitHub: [@gnoudisme](https://github.com/gnoudisme)
+- X: [@gnoudbnf](https://x.com/gnoudbnf)
+- Facebook: [gnoudbnf](https://facebook.com/gnoudbnf)
+
+---
+
+*💡 Fun fact: tớ từng "nổ" là nạp 10 triệu vào OpenRouter nhưng thật ra chưa có tiền 😂*
