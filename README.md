@@ -1,4 +1,4 @@
-# Chào cậu, tớ là Dươngg! 👋
+# Chào cậu, tớ là Ngơ! 👋
 
 > ### *"Tớ không phải lập trình viên — tớ chỉ thích tự tay xây dựng những thứ mình dùng được."* 🛠️
 
